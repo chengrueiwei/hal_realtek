@@ -430,3 +430,5 @@ os_vector_table_update = 0x0013e3c4 ;
 read_mapping_table = 0x0013e4a8 ;
 write_mapping_table = 0x0013e4d0 ;
 xTaskGetFlashTaskHandle = 0x0013e4d8 ;
+bt_clk_offset = 0x0013ded8 ;
+set_zigbee_priority = 0x00043719 ;
